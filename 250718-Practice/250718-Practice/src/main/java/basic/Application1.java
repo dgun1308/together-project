@@ -1,5 +1,5 @@
 package basic;
-
+// 250720수정사항 test
 public class Application1 {
 
     public static void main(String[] args) {
